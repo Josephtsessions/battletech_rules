@@ -1,0 +1,3 @@
+rootProject.name = 'battletech_rules'
+
+include ':app'
